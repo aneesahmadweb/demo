@@ -1,0 +1,1 @@
+/var/www/demo.mageelite.com/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js
